@@ -6,8 +6,8 @@ Développée avec **Vue.js & Laravel**, cette app permet de répondre à des que
 ## 🚀 Aperçu  
 
 ### 📌 Page d'accueil  
-![Accueil](screenshots/Acceuil dark mode.PNG)
-![Accueil](screenshots/Acceuil ligth mode.PNG)
+![Accueil](screenshots/Accueil1.PNG)
+![Home](screenshots/Accueil2.PNG)
 
 ### 🎮 Exemple de question  
 ![Question](screenshots/Question.PNG)
